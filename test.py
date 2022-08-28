@@ -4,3 +4,6 @@ def testfn():
 
 def newfn():
     print("Surely this should not conflict.")
+    
+def conflict():
+    print("This is a conflict.")
