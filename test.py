@@ -4,3 +4,10 @@ def testfn():
 
 def newfn():
     print("Surely this should not conflict.")
+<<<<<<< Updated upstream
+=======
+    
+    
+def newfn2():
+    print("Now NO WAY can this conflict.")
+>>>>>>> Stashed changes
