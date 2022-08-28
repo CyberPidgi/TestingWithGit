@@ -1,10 +1,9 @@
 def testfn():
-    print("Hello World Sucks.")
-    print("i am so confused about commiting bro.")
-    print("NOW THIS WORKS????")
+    pass
 
 def newfn():
     print("Surely this should not conflict.")
     
 def conflict():
-    print("This is a conflict.")
+    print("Somehow no longer a conflict.")
+    print("*sigh*")
