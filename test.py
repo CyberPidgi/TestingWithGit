@@ -1,2 +1,2 @@
 def testfn():
-    print("testfn")
+    print("Hello World Sucks.")
